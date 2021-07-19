@@ -10,5 +10,15 @@ p {
 
 td {
     text-align: right;
+    vertical-align: center;  
+}
+.leftcolumn {   
+    float: center;
+    width: 200px;
+    padding-right: 20px;
+}
+
+/* Right column */
+.rightcolumn {
 }
 
