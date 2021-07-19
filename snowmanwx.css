@@ -1,7 +1,7 @@
 body {
 }
 
-h1 {
+h1, h2, h3, h4, h5, h6 {
   text-align: center;
 }
 
@@ -12,8 +12,30 @@ td {
     text-align: right;
     vertical-align: center;  
 }
+
+.rain {
+    color:#007f00;
+}
+.snow {
+    color:#7f007f;
+}
+.heat {
+    color:#7f0000;
+}
+.cold {
+    color:#00007f;
+}
+.tenth {
+    font-weight:bold;
+}
+.extreme {
+    font-weight:bold;
+    font-style:italic;
+}
+
 .leftcolumn {   
-    float: center;
+    float: left;
+    text-align: center;
     width: 200px;
     padding-right: 20px;
 }
