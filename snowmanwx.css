@@ -42,6 +42,7 @@ td {
 
 /* Right column */
 .rightcolumn {
-    text-align: center;
+    float:center;
+    text-align:center;
 }
 
