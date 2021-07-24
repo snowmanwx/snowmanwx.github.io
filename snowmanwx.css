@@ -9,6 +9,7 @@ p {
 }
 
 table {
+  float:center;
   text-align: center;
 }
 td {
@@ -45,7 +46,7 @@ td {
 
 /* Right column */
 .rightcolumn {
-    float:center;
+    float:right;
     text-align:center;
 }
 
